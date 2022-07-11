@@ -18,7 +18,8 @@
 
 ### Links and Resources
 
-* [GitHub](https://github.com/sson68x/image-lambda/pull/1)
+* [GitHub](https://github.com/sson68x/image-lambda/pull/2)
+* [AWS S3](https://lab17-upload-image.s3.us-west-2.amazonaws.com/images.json)
 * [Class Demo](https://github.com/codefellows/seattle-javascript-401d47/tree/main/class-17)
 
 ### Setup

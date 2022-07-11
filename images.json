@@ -1,0 +1,17 @@
+[
+    {
+        "name": "test%2Fkey",
+        "size": 1024,
+        "type": "image"
+    },
+    {
+        "name": "cthulhu.jpg",
+        "size": 108733,
+        "type": "image"
+    },
+    {
+        "name": "bag.jpg",
+        "size": 61706,
+        "type": "image"
+    }
+]
